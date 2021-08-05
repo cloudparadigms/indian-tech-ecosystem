@@ -10,3 +10,4 @@ Cataloguing Indian Tech Startups
 | [BigBasket](https://www.bigbasket.com/)   | India's largest online supermarket | web app, smartphone app          |
 | [Swiggy](https://www.swiggy.com/#)               | Restaurants in your pocket    | Data Science, Smartphone app, web app |
 | [Groww](https://groww.in/)               | Changing the way India invests.    |  Smartphone app, web app |
+| [Dream11](https://blog.dream11engineering.com/)               | India's Biggest Fantasy Sports Platform    |  Smartphone app, web app |
