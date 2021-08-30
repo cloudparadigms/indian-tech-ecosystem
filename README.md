@@ -1,10 +1,10 @@
-# indian-tech-startups
-Cataloguing Indian Tech Startups
+# indian-tech-ecosystem
+Cataloguing Indian Tech Ecosystem
 
 
-## Indian Tech Startups
+## Indian Tech Ecosystem
 
-| Startup         | Tagline                                          | Technology Used                              |
+| Company         | Tagline                                          | Technology Used                              |
 | --------------- | ------------------------------------------------------------ | ---------------------------------- |
 | [Bharatpe](https://blog.bharatpe.com/)       | Accept payments from any app for FREE & take loans whenever you need! | QR Code based, Smartphone app, |
 | [BigBasket](https://www.bigbasket.com/)   | India's largest online supermarket | web app, smartphone app          |
